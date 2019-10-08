@@ -1,7 +1,7 @@
 # microblog
 
-As of right now two pages @ / and /index exist and show the message hello world.
+Project includes three working endpoints "/", "/index", and "/login".
 
-There's no configuration options
+A Basic login form can be found @ /login
 
-That is all
+This Project has been created following the Tutorial at https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
