@@ -8,8 +8,13 @@ flask = "*"
 flake8 = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
+flask-login = "*"
+werkzeug = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
